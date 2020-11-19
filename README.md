@@ -1,13 +1,12 @@
 ## DNC
-=====
+
 Manage dependencies
 
 ## LICENSE
-=====
 Refer LICENSE.md
 
 ## USAGE
-====
+
 Usage: ./dnc.sh [--path=path/to/lib | --restore] libname
 
   --path=LOCAL_LIB_PATH
